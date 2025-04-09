@@ -6,3 +6,9 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+
+Sitemap: https://terapia-e-psicanalise-formacao-completa.desconto-no-curso.com.br/sitemap.xml]
+
+
